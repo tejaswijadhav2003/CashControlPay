@@ -198,7 +198,52 @@ section{
 .main_content .img{
   top:-30px;
 }
+.payment{
+  background-color: yellow;
+  margin: 0px;
+  padding-bottom: 40px;
+}
 
+.payment h1{
+  font-size: 3.5vi;
+  font-weight: bolder;
+}
+.payment h5{
+  font-weight: bold;
+}
+.payment .row{
+  margin-left: 150px;
+}
+.payment .card{
+  width: 200px;
+  display: block;
+  align-content: center;
+  justify-content: center;
+  padding:15px;
+  padding-left: 10px;
+  height: 250px;
+}
+.payment h1{
+  margin: 30px;
+  padding-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+.payment h5{
+  padding-top: 5px;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 40px;
+}
+.payment img{
+  margin: 20px;
+  margin-left: 30px;
+  height: 120px;
+  width: 120px;
+}
+.payment .card-title{
+  font-size: large;
+}
 footer{
   background-color: #111;
   height: auto;
